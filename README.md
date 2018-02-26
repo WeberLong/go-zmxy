@@ -11,6 +11,7 @@
 
 ### 注意
     授权时，填写必要参数格式要正确，例如：
-    ```
-    req.InitBizParams("{\"auth_code\":\"M_H5\"}", "{\"mobileNo\":\""+phone+"\"}", method)
-    ```
+
+```
+req.InitBizParams("{\"auth_code\":\"M_H5\"}", "{\"mobileNo\":\""+phone+"\"}", method)
+```
